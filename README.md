@@ -52,12 +52,13 @@ Determined which adapter was which using the IPv4 address and renamed them accor
 <img src="https://i.imgur.com/42WOysq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Assigned IP addressing for the internal network. When I set up active directory, it will install DNS automatically. So I will set the DNS address to a loopback address. <br/>
+<img src="https://github.com/AdiH8/Active-Directory-Lab/raw/main/attachments/Pasted%20image%2020230402150538.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Installed active directory domain services and renamed the server  <br/>
+<img src="https://github.com/AdiH8/Active-Directory-Lab/raw/main/attachments/Pasted%20image%2020230402150727.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/AdiH8/Active-Directory-Lab/raw/main/attachments/Pasted%20image%2020230402153253.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
