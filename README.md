@@ -72,6 +72,21 @@ Set up DHCP on the domain controller
 <img src="https://i.imgur.com/2ioB9P4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
  <br />
+ Ran a powershell script that creates 1000 users to simulate a real-world organization structure
+ <br />
+https://github.com/joshmadakor1/AD_PS
+ <br />
+ <br />
+ Created an example client VM and installed Windows 10 on it
+ <img src="https://i.imgur.com/tYdEmRD.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+ <br />
+ Connected client machine to the network and added it to the domain
+ <img src="https://i.imgur.com/KU2NYCk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/mbKCVSw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+ <br />
+ Log in to the client machine with a domain account
 </p>
 
 <!--
