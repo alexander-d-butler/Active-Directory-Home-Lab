@@ -53,12 +53,25 @@ Determined which adapter was which using the IPv4 address and renamed them accor
 <br />
 <br />
 Assigned IP addressing for the internal network. When I set up active directory, it will install DNS automatically. So I will set the DNS address to a loopback address. <br/>
-<img src="https://github.com/AdiH8/Active-Directory-Lab/raw/main/attachments/Pasted%20image%2020230402150538.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TA8Ba6m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Installed active directory domain services and renamed the server  <br/>
-<img src="https://github.com/AdiH8/Active-Directory-Lab/raw/main/attachments/Pasted%20image%2020230402150727.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://github.com/AdiH8/Active-Directory-Lab/raw/main/attachments/Pasted%20image%2020230402153253.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AiMfEDL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/91cdr9L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+ <br />
+Configured routing so that clients on the private network can access the internet through the domain controller <br/>
+<img src="https://i.imgur.com/ZCSuoYA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Wwtwbcp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MEHp4oY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Set up DHCP on the domain controller
+<img src="https://i.imgur.com/pji5VaX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2ioB9P4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+ <br />
 </p>
 
 <!--
