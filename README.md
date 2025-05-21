@@ -28,27 +28,28 @@ Planning and executing IT infrastructure setups <br/>
 -  <b>Active Directory</b>
 -  <b>Oracle VirtualBox</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Lab walk-through:</h2>
 
 <p align="center">
-Set up the "domain controller" VM running Windows Server 2019 <br/>
-<img src="https://i.imgur.com/5Vd8JjL.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Downloaded Windows Server 2019 ISO <br/>
+<img src="https://i.imgur.com/di1qWbB.png" height="80%" width="80%" alt="Active Directory Home Lab Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Set up and configured the "domain controller" VM running Windows Server 2019. Allocated 4GB RAM and 4 CPU cores to the VM to ensure efficient speeds.  <br/>
+<img src="https://i.imgur.com/XBcGzyk.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Set up the NAT and Internal Network Adapters <br/>
+<img src="https://i.imgur.com/lDniHyU.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/y3wZ6rJ.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>]
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Inserted "guest additions CD image" for a better user experience naviagting the VM (reduced lag and allowed me to resize the window when needed)<br/>
+[<img src="https://i.imgur.com/ZO6clLl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>]
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Determined which adapter was which using the IPv4 address and renamed them accordingly  <br/>
+<img src="https://i.imgur.com/42WOysq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
